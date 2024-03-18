@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Mobile app development, Software development**
 
-- 🌱 I’m currently learning **Flutter, Springboot**
+- 🌱 I’m currently learning **Linux, Docker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
