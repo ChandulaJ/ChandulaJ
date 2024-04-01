@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandulaj" alt="chandulaj" /></a> </p>
 
-- 🔭 I’m currently working on **Mobile app development, Software development**
+- 🔭 I’m currently working on **DevOps and Mobile app development**
 
-- 🌱 I’m currently learning **Linux, Docker**
+- 🌱 I’m currently learning **Linux, Docker, Kubernetes and Ansible**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
