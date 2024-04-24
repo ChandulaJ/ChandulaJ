@@ -1,4 +1,4 @@
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/ChandulaJ.svg)](https://user-badge.committers.top/sri_lanka/ChandulaJ)
+
 <h1 align="center">Hi 👋, I'm Chandula</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 
