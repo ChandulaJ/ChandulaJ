@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandulaj&show_icons=true&locale=en" alt="chandulaj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandulaj&" alt="chandulaj" /></p>
+
+<a href="https://app.daily.dev/chandulajayathilake"><img src="https://api.daily.dev/devcards/v2/e1MlBR6vNDOOXUEjzgWPB.png?type=default&r=syo" width="356" alt="Chandula Jayathilake's Dev Card"/></a>
